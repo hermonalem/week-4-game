@@ -1,7 +1,18 @@
-body {background-color: rgb(238, 255, 80);}
+#game {
+    width: 60%;
+    padding-right: 30%;
+}
 
-
+#instructions {
+    background-color: aqua;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 .crystal-image {
     width: 75px;
     height: 75px;
   }
+#scoreboard {
+    height: 250px;
+    width: 250px;
+}
